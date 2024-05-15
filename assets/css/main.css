@@ -36,8 +36,8 @@ body
     font-weight: 300;
     font-style: normal;
 
-    color: #fff;
-    background: #fff;
+    color: #ffffff;
+    background: #ffffff;
 
     -webkit-font-smoothing: antialiased;
 }
@@ -49,11 +49,11 @@ h4,
 h5,
 h6
 {
-    font-weight: normal;
+    font-weight: 800;
 
     letter-spacing: .02em;
 
-    color: #fff;
+    color: #ffffff;
 }
 
 h1
@@ -102,12 +102,12 @@ a:focus
             transition: all 300ms ease;
     text-decoration: none;
 
-    color: #fff;
+    color: #ffffff;
 }
 
 button
 {
-    border: 2px solid #fff;
+    border: 2px solid #ffffff;
     background: none;
 }
 
@@ -116,7 +116,7 @@ button
 .btn-primary:focus,
 .btn-primary:active
 {
-    border-color: #fff !important;
+    border-color: #ffffff !important;
     outline: none !important;
     background: none !important;
     -webkit-box-shadow: none;
@@ -156,7 +156,7 @@ button
     width: 100%;
     height: 100%;
 
-    background: #fff;
+    background: #ffffff;
 }
 
 .preloader.hide-preloader
@@ -370,7 +370,7 @@ button
 
     vertical-align: middle;
 
-    border: 3px solid #fff;
+    border: 3px solid #ffffff;
     border-radius: 100%;
 }
 
@@ -561,7 +561,7 @@ button
     text-align: left;
 
     border: none;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #ffffff;
     border-radius: 0;
 }
 
@@ -579,7 +579,7 @@ button
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
 
-    color: #fff;
+    color: #ffffff;
 }
 
 #service .services-list li .well
@@ -642,8 +642,8 @@ button
          -o-transition: .25s ease;
             transition: .25s ease;
 
-    color: #fff;
-    background: #fff;
+    color: #ffffff;
+    background: #ffffff;
     background: -webkit-linear-gradient(left, rgba(143,151,219,1) 1%,rgba(0,0,0,0) 100%);
     background: -webkit-gradient(linear, left top, right top, color-stop(1%, rgba(143,151,219,1)),to(rgba(0,0,0,0)));
     background:      -o-linear-gradient(left, rgba(143,151,219,1) 1%,rgba(0,0,0,0) 100%);
@@ -681,7 +681,7 @@ button
             transform: translateX(4vh);
 
     opacity: 0;
-    color: #fff;
+    color: #ffffff;
 }
 
 #work .showcase .item:hover .info .container-mid h5
@@ -737,7 +737,7 @@ button
         -ms-transform: translateY(-50%);
             transform: translateY(-50%);
 
-    background: #fff;
+    background: #ffffff;
 }
 
 #work .showcase .item .background-image
@@ -777,7 +777,7 @@ button
         -ms-transform: translate(50%,-50%);
             transform: translate(50%,-50%);
 
-    color: #fff;
+    color: #ffffff;
     outline: none !important;
     background: none;
 }
@@ -850,9 +850,9 @@ button
          -o-transition: .3s ease;
             transition: .3s ease;
 
-    color: #fff;
+    color: #ffffff;
     border: none;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #ffffff;
     border-radius: 0;
     outline: none !important;
     background: none;
@@ -883,25 +883,25 @@ button
 #contact #contact-form input::-webkit-input-placeholder,
 #contact #contact-form textarea::-webkit-input-placeholder
 {
-    color: #fff;
+    color: #ffffff;
 }
 
 #contact #contact-form input:-ms-input-placeholder,
 #contact #contact-form textarea:-ms-input-placeholder
 {
-    color: #fff;
+    color: #ffffff;
 }
 
 #contact #contact-form input::-ms-input-placeholder,
 #contact #contact-form textarea::-ms-input-placeholder
 {
-    color: #fff;
+    color: #ffffff;
 }
 
 #contact #contact-form input::placeholder,
 #contact #contact-form textarea::placeholder
 {
-    color: #fff;
+    color: #ffffff;
 }
 
 #contact #contact-form input.error,
@@ -964,7 +964,7 @@ button
 
     vertical-align: middle;
 
-    border: 2px solid #fff;
+    border: 2px solid #ffffff;
     border-radius: 100%;
 }
 
@@ -1036,7 +1036,7 @@ button
     pointer-events: none;
 
     opacity: 0;
-    color: #fff;
+    color: #ffffff;
     border: 2px solid limegreen;
     border-radius: 0;
     background: none;
@@ -1095,8 +1095,8 @@ button
 
     text-align: center;
 
-    color: #fff;
-    border: 2px solid #fff;
+    color: #ffffff;
+    border: 2px solid #ffffff;
     border-radius: 100%;
     background: none;
 }
@@ -1150,6 +1150,6 @@ button
 
 #footer p a
 {
-    color: #fff;
-    border-bottom: 1px solid #eee;
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
